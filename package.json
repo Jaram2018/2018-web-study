@@ -1,0 +1,35 @@
+{
+  "name": "jaram_adminpage",
+  "version": "1.0.0",
+  "description": "JARAM 어드민페이지 테스트 레포지토리",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "JARAM_WEB_STUDY_TEAM",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "google-spreadsheet": "^2.0.6",
+    "googleapis": "^27.0.0",
+    "mongoose": "^5.3.9",
+    "supervisor": "^0.12.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CXZ7720/Jaram_adminpage.git"
+  },
+  "keywords": [
+    "jaram"
+  ],
+  "bugs": {
+    "url": "https://github.com/CXZ7720/Jaram_adminpage/issues"
+  },
+  "homepage": "https://github.com/CXZ7720/Jaram_adminpage#readme"
+}
