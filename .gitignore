@@ -3,6 +3,8 @@
 # Edit at https://www.gitignore.io/?templates=code,node
 credentials.json
 jaram-groupware-7c3617563f88.json
+jaram_web/
+material_origin/
 ### Code ###
 # Visual Studio Code - https://code.visualstudio.com/
 .settings/
